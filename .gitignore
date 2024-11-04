@@ -1,0 +1,14 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+.env
+
+# Archivos y carpetas de Django
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# Archivos específicos de IDE o sistema operativo
+.vscode/
+.DS_Store
