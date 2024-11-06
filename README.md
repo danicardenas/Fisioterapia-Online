@@ -13,3 +13,7 @@ El proyecto "Fisioterapia Online" seguirá una arquitectura monolítica, en la c
 ### Justificación de Elección
 - Django es un framework robusto y ampliamente utilizado en aplicaciones web, ideal para construir rápidamente una aplicación funcional con autenticación, manejo de sesiones y ORM para la base de datos.
 - La arquitectura monolítica permite una integración sencilla de todas las funcionalidades necesarias para la gestión de citas y usuarios en un solo sistema.
+
+## Instalación y Configuración
+Para más detalles, consulta el archivo [SETUP.md](SETUP.md).
+
